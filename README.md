@@ -10,6 +10,9 @@ This project is a simple weather forecasting website that fetches weather detail
 
 ### Get Started
 - Clone the repository.
+  ```
+  git clone https://github.com/DesaiKrish/ForecastFriend.git
+  ```
 - Launch the `index.html` locally.
 - Enter city name and click on the "search" button.
 - The weather details like temperature, humidity, wind speed, etc. for the entered city will be displayed on the screen.
